@@ -45,8 +45,8 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/web-sec-scanner.git
-   cd web-sec-scanner
+   git clone https://github.com/SushilkumarDev/Web-Application-Security-Scanner.git
+   cd Web-Application-Security-Scanner
    ```
 
 2. **Install dependencies**:

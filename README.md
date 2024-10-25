@@ -1,7 +1,3 @@
-Certainly! Here’s a comprehensive documentation guide for the **Web Application Security Scanner** project, written to the highest standard, covering every detail for ease of use, development, and customization.
-
----
-
 # **Web Application Security Scanner**
 
 ## Table of Contents
@@ -279,5 +275,4 @@ This project is licensed under the MIT License. See `LICENSE.md` for more inform
 ---
 
 This documentation is designed to provide users with all essential information for operating, customizing, and extending the Web
-
 Application Security Scanner.

@@ -272,7 +272,7 @@ For more details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## **License**
 
-This project is licensed under the GPLv3 License. See [LICENSE.md](LICENSE.md) for more information.
+This project is licensed under the GNU General Public License v3.0 License. See [LICENSE](LICENSE) for more information.
 
 ---
 
